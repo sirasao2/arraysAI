@@ -59,3 +59,34 @@ export const genericArray = [
   'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/resilience_18_generic.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
   'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/resilience_19_generic.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
 ];
+
+
+
+export const backgroundArray = [
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient25.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient1.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient31.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient37.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient28.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient27.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient35.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient26.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient34.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient23.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient21.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient39.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient36.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient30.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient38.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient12.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient11.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient20.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient29.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient32.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient17.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient22.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient10.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient24.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+  'https://firebasestorage.googleapis.com/v0/b/motiv-f0881.appspot.com/o/gradient33.jpg?alt=media&token=5897521e-bac4-485a-8f2e-a0f82d184bf3&_gl=1*cwqvl4*_ga*MTUyODE2NjM0My4xNjkxOTA0MTky*_ga_CW55HF8NVT*MTY5NjE5NTQzMC4xMi4xLjE2OTYyMDE1NDcuNjAuMC4w',
+]
+
